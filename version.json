@@ -1,10 +1,10 @@
 {
   "stable": {
     "name": "0.0.1",
-    "url": "https://github.com/tman10001/KAMI-Red/releases/download/0.0.1/kami.red.0.0.1.jar"
+    "url": "https://github.com/tman10001/KAMI-Red/releases/download/0.0.1/KamiRed-0.0.1.jar"
   },
   "beta": {
     "name": "0.0.1",
-    "url": https://github.com/tman10001/KAMI-Red/releases/download/0.0.1/kami.red.0.0.1.jar"
+    "url": https://github.com/tman10001/KAMI-Red/releases/download/0.0.1/KamiRed-0.0.1.jar"
   }
 }
